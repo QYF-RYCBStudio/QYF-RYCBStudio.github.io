@@ -1,10 +1,10 @@
 # RYCB工作室
 
-##Python
+## Python
 ### [ybc][ybc]
 ### [rycb][rycb]
 ### [航天知识问答系统][akqas]
-##Minecraft Mod
+## Minecraft Mod
 ### [EasyTech][ET]
 
 [ybc]:https://QYF-RYCBStudio.github.io/ybc
